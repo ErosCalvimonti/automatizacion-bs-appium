@@ -1,6 +1,6 @@
 # wdio-appium
 
-Este repositorio contiene un proyecto de automatización de pruebas utilizando WebdriverIO y Appium.
+Este repositorio contiene un proyecto de automatización de pruebas mobile utilizando WebdriverIO y Appium.
 
 ## Requisitos
 
@@ -13,7 +13,7 @@ Este repositorio contiene un proyecto de automatización de pruebas utilizando W
 
 1. Clona este repositorio:
     ```
-    git clone https://github.com/tu-usuario/wdio-appium.git
+    git clone https://github.com/ErosCalvimonti/automatizacion-bs-appium
     ```
 2. Navega al directorio del proyecto:
     ```
