@@ -1,4 +1,4 @@
-# wdio-appium
+# Automatización en Mobile con WebdriverIO, Appium, Browserstack y Android Studio
 
 Este repositorio contiene un proyecto de automatización de pruebas mobile utilizando WebdriverIO y Appium.
 
